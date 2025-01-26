@@ -1,6 +1,9 @@
-# Markdown Preview App
+# Text Editor
 
-A real-time markdown preview application built with React and Next.js that allows users to write markdown and see the formatted output instantly.
+A real-time markdown preview application built with React that allows users to write markdown and see the formatted output instantly.
+
+## Live Demo
+🚀 [Try the app here](https://text-editor-pink-gamma.vercel.app/)
 
 ## Features
 
